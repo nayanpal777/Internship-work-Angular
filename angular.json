@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "internship-project-app"
+    }
+  },
+  "defaultProject": "internship-project-app",
+  "cli": {
+    "analytics": false
+  }
 }
